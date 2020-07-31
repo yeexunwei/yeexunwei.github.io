@@ -5,4 +5,6 @@ excerpt: "Develop a search engine with Lucene model. Results returned are ranked
 ![](/assets/jobreco.png)
 "
 collection: portfolio
+redirect_to:
+  - 
 ---

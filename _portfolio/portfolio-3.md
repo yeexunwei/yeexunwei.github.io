@@ -5,4 +5,6 @@ excerpt: "Predicting what word comes next with Tensorflow. Implement RNN and LST
 ![](/assets/nextword.png)
 "
 collection: portfolio
+redirect_to:
+  - https://xunweiyee.github.io/next-word-predictor/
 ---

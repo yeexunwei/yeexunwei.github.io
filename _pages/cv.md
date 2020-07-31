@@ -12,15 +12,15 @@ redirect_from:
 Education
 ---------
 **Bachelor of Computer Science (Information Systems), University of Malaya**  
-*2016 &ndash; 2020*
-- Pass with Honours (with Distinction), 3.87/4.0 GPA
+*2016 &mdash; 2020*
+- *Pass with Honours (with Distinction)* &mdash; 3.87/4.0 GPA
 - Awarded the University Book Prize in recognition of high academic achievement
 - Undertook a research project as final year project on Lung Cancer Image Classification (use of signal processing methods to transform images for lung nodules classification)
 
 Experience
 ---------
 **Data Science Intern, The Center of Applied Data Science**, Bangsar South KL  
-*August 2018 &ndash; March 2019*  
+*August 2018 &mdash; March 2019*  
 - Developed a Job Recommender System using implicit feedback and cosine similarity
 - Scraped data from Twitter and LinkedIn for sentiment analysis
 - Designed and implemented a database to automate company business operations
@@ -33,37 +33,37 @@ Experience
 
 Skills
 ------
-- **Programming** &ndash; Python, Java
-- **Unix Scripting** &ndash; Bash
-- **Web Development** &ndash; PHP, Ruby on Rails, Flask, HTML, CSS
-- **Database** &ndash; MySQL, Oracle, Postgres
-- **Statistical Analysis Tool** &ndash; SPSS, SAS Enterprise Miner
-- **Machine Learning** &ndash; scikit-learn
-- **Data Visualisation** &ndash; Tableau, Power BI
-- **Version Control** &ndash; Git
-- **Cloud Services** &ndash; AWS, Digital Ocean
+- **Programming** &mdash; Python, Java
+- **Unix Scripting** &mdash; Bash
+- **Web Development** &mdash; PHP, Ruby on Rails, Flask, HTML, CSS
+- **Database** &mdash; MySQL, Oracle, Postgres
+- **Statistical Analysis Tool** &mdash; SPSS, SAS Enterprise Miner
+- **Machine Learning** &mdash; scikit-learn
+- **Data Visualisation** &mdash; Tableau, Power BI
+- **Version Control** &mdash; Git
+- **Cloud Services** &mdash; AWS, Digital Ocean
 - **Image Processing**
 - **Information Retrieval**
 
 Awards
 ------
-- **The University Book Prize**, University of Malaya &ndash; 2020  
+- **The University Book Prize**, University of Malaya &mdash; 2020  
 Awarded in recognition of high academic performance.
-- **Global Datathon *First Prize***, International Data Science Hackathon  &ndash; 2019  
+- **Global Datathon *First Prize***, International Data Science Hackathon  &mdash; 2019  
 Developed a predictive maintenance model to detect abnormal behaviours of forklifts sensor data.
-- **Academia Datathon *First Prize***, International University Data Science Challenge  &ndash; 2019  
+- **Academia Datathon *First Prize***, International University Data Science Challenge  &mdash; 2019  
 Developed a forecasting model to predict the price of twenty cryptocurrencies using historical data.
 
 Trainings & Certifications
 --------
-- **SAS Undergraduate Joint Certificate Program Curriculum in Data Science** &ndash; *Mar 2020*
-- **Oracle Database Design and Programming with SQL** &ndash; *Jan 2020*
-- **Google Developer Essentials** &ndash; *Sep 2019*
-- **SAP Analytics Cloud** &ndash; *Apr 2018*
-- **Applied Analytics Using SAS Enterprise Miner** &ndash; *Jan 2018*
+- **SAS Undergraduate Joint Certificate Program Curriculum in Data Science** &mdash; *Mar 2020*
+- **Oracle Database Design and Programming with SQL** &mdash; *Jan 2020*
+- **Google Developer Essentials** &mdash; *Sep 2019*
+- **SAP Analytics Cloud** &mdash; *Apr 2018*
+- **Applied Analytics Using SAS Enterprise Miner** &mdash; *Jan 2018*
 
 **MOOCs**  
-- Machine Learning (Stanford, Andrew Ng) &ndash; *ongoing*
+- Machine Learning (Stanford, Andrew Ng) &mdash; *ongoing*
 
 Projects
 --------

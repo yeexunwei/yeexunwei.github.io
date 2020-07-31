@@ -5,6 +5,6 @@ excerpt: "Develop a search engine with Lucene model. Results returned are ranked
 ![](/assets/lungcanc.png)
 "
 collection: portfolio
-redirect-to: 
-  - github.io
+redirect_to: 
+  - https://xunweiyee.github.io/lung-cancer-image-classification/
 ---

@@ -5,4 +5,6 @@ excerpt: "Develop a search engine with Lucene model. Results returned are ranked
 ![](/assets/predmain.png)
 "
 collection: portfolio
+redirect_to:
+  - https://www.datasciencesociety.net/similar-but-not-the-same-an-autoregressive-recurrent-neural-network-with-long-short-term-memory-units-for-forecasting-similar-time-series/
 ---

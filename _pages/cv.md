@@ -12,15 +12,15 @@ redirect_from:
 Education
 ---------
 **Bachelor of Computer Science (Information Systems), University of Malaya**  
-*2016 &mdash; 2020*
-- *Pass with Honours (with Distinction)* &mdash; 3.87/4.0 GPA
+*2016 &ndash; 2020*
+- *Pass with Honours (with Distinction)* &ndash; 3.87/4.0 GPA
 - Awarded the University Book Prize in recognition of high academic achievement
 - Undertook a research project as final year project on Lung Cancer Image Classification (use of signal processing methods to transform images for lung nodules classification)
 
 Experience
 ---------
 **Data Science Intern, The Center of Applied Data Science**, Bangsar South KL  
-*August 2018 &mdash; March 2019*  
+*August 2018 &ndash; March 2019*  
 - Developed a Job Recommender System using implicit feedback and cosine similarity
 - Scraped data from Twitter and LinkedIn for sentiment analysis
 - Designed and implemented a database to automate company business operations

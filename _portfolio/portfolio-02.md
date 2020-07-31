@@ -1,6 +1,6 @@
 ---
 title: "Predictive Maintenance of Forklifts using Sensor Data"
-excerpt: "Develop a search engine with Lucene model. Results returned are ranked using tf-idf score. Users provide relevance feedback to improve the effectiveness of the information retrieved.
+excerpt: "A combination of LSTM and EDM models to address the issue of anomaly classification and prediction in time series data. Working with sensor data of forklifts used in storage and retrieval systems. Predictors based on variance and median methods in the handling of anomalies.
 <br/>
 ![](/assets/predmain.png)
 "

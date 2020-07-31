@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yee Xun Wei"
-excerpt: "About me"
+title: "About me"
+excerpt: "Description about myself."
 author_profile: true
 redirect_from: 
   - /about/

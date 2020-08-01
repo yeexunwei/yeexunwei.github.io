@@ -9,6 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+<!--
+Xun Wei Yee
+======
+
+> [xunweiyee.github.io](https://xunweiyee.github.io) | [linkedin.com/in/xunweiyee](https://www.linkedin.com/in/xunweiyee/) | [yeexunwei@gmail.com](mailto:yeexunwei@gmail.com)
+
+### Data enthusiast with a strong background in programming. 
+
+> [xunweiyee.github.io](https://xunweiyee.github.io) . [linkedin.com/in/xunweiyee](https://www.linkedin.com/in/xunweiyee/) . yeexunwei@gmail.com
+
+### [xunweiyee.github.io](https://xunweiyee.github.io) | [linkedin.com/in/xunweiyee](https://www.linkedin.com/in/xunweiyee/) | [yeexunwei@gmail.com](mailto:yeexunwei@gmail.com)
+
+### [ [xunweiyee.github.io](https://xunweiyee.github.io) ] . [ [linkedin.com/in/xunweiyee](https://www.linkedin.com/in/xunweiyee/) ] . [ yeexunwei@gmail.com ]
+-->
+
 Education
 ---------
 **Bachelor of Computer Science (Information Systems), University of Malaya**  

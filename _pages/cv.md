@@ -49,10 +49,11 @@ Awards
 ------
 - **The University Book Prize**, University of Malaya &mdash; 2020  
 Awarded in recognition of high academic performance.
-- **Global Datathon *First Prize***, International Data Science Hackathon  &mdash; 2019  
+- **Global Datathon *First Prize***, International Data Science Hackathon &mdash; 2019  
 Developed a predictive maintenance model to detect abnormal behaviours of forklifts sensor data.
-- **Academia Datathon *First Prize***, International University Data Science Challenge  &mdash; 2019  
+- **Academia Datathon *First Prize***, International University Data Science Challenge &mdash; 2019  
 Developed a forecasting model to predict the price of twenty cryptocurrencies using historical data.
+- **King Scout** &mdash; 2014  
 
 Trainings & Certifications
 --------

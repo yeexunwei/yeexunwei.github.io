@@ -1,6 +1,6 @@
 ---
 title: "Job Recommendation with ALS"
-excerpt: "Develop a search engine with Lucene model. Results returned are ranked using tf-idf score. Users provide relevance feedback to improve the effectiveness of the information retrieved.
+excerpt: "A  Job Recommendation Engine with Implicit Feedback. Two models are developed. The first used content -basaed filtering; the second implemented [Collaborative Filtering for Implicit Feedback](http://yifanhu.net/PUB/cf.pdf).
 <br/>
 <img src='/assets/jobreco.png' alt='' width='500'/>"
 collection: portfolio

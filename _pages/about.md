@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I have currently completed my studies at University of Malaya. I am open to opportunities where I can help to optimize company products and development by delivering actionable data insights.
+
+
+I have currently pursuing Master of Computing at National University of Malaya. I am open to opportunities where I can help to optimize company products and development by delivering actionable data insights.
 
 ## My Background
-I have undertaken courses such as Data Mining and Warehousing, Business Analytics and Intelligence, Data Visualisation, Advanced Database, Information Retrieval, Probability and Statistics, Soft Computing and Mobile App Development.
+Started my study in NUS from Jan 2021. Attending courses on AI Planning, Uncertainty Modelling and Machine Learning.
+
+I have undertaken courses such as Data Mining and Warehousing, Business Analytics and Intelligence, Data Visualisation, Advanced Database, Information Retrieval, Probability and Statistics, Soft Computing and Mobile App Development during my study in UM.
 
 I have the privilege to gain exposure on data science projects in my undergraduate years. I have taken part in datathons predicting the future value of cryptocurrencies and machine failures using sensor data. 
 

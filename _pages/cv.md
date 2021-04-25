@@ -26,17 +26,20 @@ Xun Wei Yee
 
 Education
 ---------
+**Master of Computing, National University of Singapore**\
+*2021 &ndash; 2022*
+
 **Bachelor of Computer Science (Information Systems), University of Malaya**\
 *2016 &ndash; 2020*
 - *Pass with Honours (with Distinction)* &ndash; 3.87/4.0 GPA
 - Awarded the University Book Prize in recognition of high academic achievement
-- Undertook a research project as final year project on Lung Cancer Image Classification (use of signal processing methods to transform images for lung nodules classification)
+- Undertook final year project on Lung Cancer Image Classification System (use of signal processing methods to transform images for lung nodules classification)
 
 Experience
 ---------
 **Data Science Intern, The Center of Applied Data Science**, Bangsar South KL\
 *August 2018 &ndash; March 2019*\
-- Developed a Job Recommender System using implicit feedback and cosine similarity
+- Developed Job Recommender System using implicit feedback and cosine similarity
 - Scraped data from Twitter and LinkedIn for sentiment analysis
 - Designed and implemented a database to automate company business operations
 
@@ -62,12 +65,12 @@ Skills
 
 Awards
 ------
-- **The University Book Prize**, University of Malaya &mdash; 2020\
+- **University Book Prize**, University of Malaya &mdash; 2020\
 Awarded in recognition of high academic performance.
 - **Global Datathon *First Prize***, International Data Science Hackathon &mdash; 2018\
-Developed a predictive maintenance model to detect abnormal behaviours of forklifts sensor data.
+Developed predictive maintenance model to detect abnormal behaviours of forklifts sensor data.
 - **Academia Datathon *First Prize***, International University Data Science Challenge &mdash; 2018\
-Developed a forecasting model to predict the price of twenty cryptocurrencies using historical data.
+Developed forecasting model to predict price of twenty cryptocurrencies using historical data.
 - **King Scout** &mdash; 2014
 
 Trainings & Certifications

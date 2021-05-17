@@ -1,12 +1,10 @@
 ---
 title: "Interpretable Machine Learning"
 collection: portfolio
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Summary about interpretable machine learning from various sources. Focus on inherently interpretablte machine learning models and LIME.'
 date: 2021-04-07
 paperurl: 'https://xunweiyee.github.io/files/interpretable-ml.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Summary about interpretable machine learning from various sources. Focus on inherently interpretablte machine learning models and LIME.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://xunweiyee.github.io/files/interpretable-ml.pdf)

@@ -6,6 +6,8 @@ excerpt: "Lung cancer image classification in Python using LIDC dataset. Images 
 collection: portfolio
 ---
 
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+
 \documentclass[english]{article}
 \usepackage{fullpage}
 \usepackage{setspace}

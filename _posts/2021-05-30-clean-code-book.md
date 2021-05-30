@@ -1,7 +1,10 @@
 ---
+layout: splash
+classes: wide
 title: 'Clean Code book notes'
 date: 2021-05-30
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2021/05/clean-code/
+toc: true
 tags:
   - clean code
   - book review
@@ -60,4 +63,18 @@ tags:
     - add no more context to name than is necessary
 
 ## Chapter 3 Functions
-
+1. Small!
+    - two, three or four lines long
+    - Blocks and indenting
+        - blocks within `if` statements, `else` statements, `while` statements and so on should be one line long (probably function call)
+1. Do one thing
+    > Functions should do one thing. They should do it well. They should do it only.
+    - if function does only those steps that are one level below stated name of function, then function is only doing one thing
+    - cannot extract another function from function
+    - Sections within functions
+        - functions that do one thing  cannot be reasonably divided into sections
+1. One level of abstraction per function
+    - Reading code from top to bottom: the stepdown rule
+1. Switch statements
+    - `switch` statements do *N* things
+    - bury in low-level class and never repeat - with *polymorphism*

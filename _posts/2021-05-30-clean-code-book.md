@@ -73,12 +73,12 @@ tags:
 1. Use descriptive names
 1. Function arguments
     - 0 > 1 > 2, avoid 3
-    - Common monadic forms - return value is better than output argument
-    - Flag arguments - passing boolean into function is terrible, split function into two
-    - Dyadic functions - try to convert to monads
+    - Common monadic forms &mdash; return value is better than output argument
+    - Flag arguments &mdash; passing boolean into function is terrible, split function into two
+    - Dyadic functions &mdash; try to convert to monads
     - Triads
-    - Argument objects - wrap arguments into class if > 2, 3
-    - Argument lists - if variable arguments are treated identically -> single argument of type `List` `void monad(Object... args);`
+    - Argument objects &mdash; wrap arguments into class if > 2, 3
+    - Argument lists &mdash; if variable arguments are treated identically -> single argument of type `List` `void monad(Object... args);`
     - Verbs and keywords
 1. Have no side effects
 1. Output arguments
@@ -90,5 +90,33 @@ tags:
 1. Don't repeat yourself
 1. Structured programming
 
+## Chapter 4 Comments
+1. Comments do not make up for bad code
+1. Explain yourself in code
+1. Good comments
+    - Legal comments &mdash; refer to only standard license
+    - Informative comments
+    - Explanation of intent
+    - Clarification
+    - Warning of consequences
+    - TODO comments &mdash;`//TODO`
+    - Amplification &mdash; this is important ...
+1. Bad comments
+    - Mumbling
+    - Redundant comments
+    - Misleading comments
+    - Mandated comments
+    - Journal comments
+    - Noise comments
+    - Scary noise
+    - Don't use a comment when you can use a function or a variable
+    - Position markers
+    - Closing brace comments
+    - Attributions and bylines
+    - **Commented-out code**
+    - HTML comments
+    - Nonlocal information
+    - Too much information
+    - Inobvious connection
+    - Function headers
 
-    

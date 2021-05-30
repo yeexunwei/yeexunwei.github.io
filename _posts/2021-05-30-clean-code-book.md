@@ -4,7 +4,6 @@ classes: wide
 title: 'Clean Code book notes'
 date: 2021-05-30
 permalink: /posts/2021/05/clean-code/
-toc: true
 tags:
   - clean code
   - book review
@@ -14,13 +13,7 @@ tags:
 
 ## Chapter 2 Meaningful Names
 1. Use intention-revealing names
-    - ```
-        int d; elapsed time in days
-        ```
-        `d` reveals nothing
-        ```
-        int elapsedTimeInDays;
-        ```
+    - `int elapsedTimeInDays;` > `int d; elapsed time in days`
 1. Avoid disinformation
 1. Make meaningful distinctions
     - `a1, a2, ..., aN` is noninformative
@@ -53,8 +46,7 @@ tags:
 1. Don't pun
     - avoid using the same word for two purposes
 1. Use solution domain names
-    - readers are programmers
-    - use CS terms, algorithms names, pattern names, math terms and so forth
+    - readers are programmers, use CS terms, algorithms names, pattern names, math terms and so forth
 1. Use problem domain names
 1. Add meaningful context
     - class named `Address` > prefixes: `addrFirstName`, `addrLastName`, `addrState`, ... > `firstName`, `lastName`, `street`, `houseNumber`, `city`, `state` and `zipcode`
@@ -78,3 +70,25 @@ tags:
 1. Switch statements
     - `switch` statements do *N* things
     - bury in low-level class and never repeat - with *polymorphism*
+1. Use descriptive names
+1. Function arguments
+    - 0 > 1 > 2, avoid 3
+    - Common monadic forms - return value is better than output argument
+    - Flag arguments - passing boolean into function is terrible, split function into two
+    - Dyadic functions - try to convert to monads
+    - Triads
+    - Argument objects - wrap arguments into class if > 2, 3
+    - Argument lists - if variable arguments are treated identically -> single argument of type `List` `void monad(Object... args);`
+    - Verbs and keywords
+1. Have no side effects
+1. Output arguments
+    - `report.appendFooter()` > `public void appendFooter(StringBuffer report)`
+1. Command query separation
+1. Prefer exceptions to returning error codes
+1. Extract try/catch blocks
+1. Error handling is one thing
+1. Don't repeat yourself
+1. Structured programming
+
+
+    

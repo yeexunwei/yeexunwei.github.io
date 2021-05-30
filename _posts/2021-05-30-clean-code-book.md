@@ -85,7 +85,7 @@ tags:
     - `report.appendFooter()` > `public void appendFooter(StringBuffer report)`
 1. Command query separation
 1. Prefer exceptions to returning error codes
-1. Extract try/catch blocks
+1. Extract try/catch blocks &mdash; extract bodies of `try`  and `catch` blocks out into functions of their own
 1. Error handling is one thing
 1. Don't repeat yourself
 1. Structured programming
@@ -100,15 +100,15 @@ tags:
     - Clarification
     - Warning of consequences
     - TODO comments &mdash;`//TODO`
-    - Amplification &mdash; this is important ...
+    - Amplification &mdash; `//this is important ...`
 1. Bad comments
     - Mumbling
     - Redundant comments
     - Misleading comments
     - Mandated comments
     - Journal comments
-    - Noise comments
-    - Scary noise
+    - Noise comments &mdash; restate the obvious and provide no new information
+    - Scary noise &mdash; error in comments (pasted)
     - Don't use a comment when you can use a function or a variable
     - Position markers
     - Closing brace comments

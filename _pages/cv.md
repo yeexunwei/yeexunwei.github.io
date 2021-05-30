@@ -38,7 +38,7 @@ Education
 Experience
 ---------
 **Data Science Intern, The Center of Applied Data Science**, Bangsar South KL\
-*August 2018 &ndash; March 2019*\
+*August 2018 &ndash; March 2019*
 - Developed Job Recommender System using implicit feedback and cosine similarity
 - Scraped data from Twitter and LinkedIn for sentiment analysis
 - Designed and implemented a database to automate company business operations
@@ -82,7 +82,8 @@ Trainings & Certifications
 - **Applied Analytics Using SAS Enterprise Miner** &mdash; *Jan 2018*
 
 #### MOOCs
-- Machine Learning (Stanford, Andrew Ng) &mdash; *ongoing*
+- [Machine Learning (Stanford, Andrew Ng)](https://www.coursera.org/account/accomplishments/certificate/DYTBU6PWHCFU)
+<!-- - Machine Learning (Stanford, Andrew Ng) &mdash; *ongoing* -->
 
 Projects
 --------

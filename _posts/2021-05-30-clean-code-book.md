@@ -18,8 +18,8 @@ tags:
         ```
         int elapsedTimeInDays;
         ```
-- Avoid disinformation
-- Make meaningful distinctions
+1. Avoid disinformation
+1. Make meaningful distinctions
     - `a1, a2, ..., aN` is noninformative
     - `ProductInfo` or `ProductData` are indistince noise words
     - ```
@@ -27,35 +27,35 @@ tags:
         getActiveAccounts();
         getActiveAccountInfo();
         ```
-- Use pronounceable names
-- **Use searchable names**
+1. Use pronounceable names
+1. **Use searchable names**
     - single-letter names and numeric constants are difficult to locate
     - single-letter names can ONLY be used as local variables insided short methods
-- Avoid encodings
+1. Avoid encodings
     - Member prefixes `_m`
     - Interfaces and implementations `ShapeFactoryImp` > `CShapeFactroy` > `IShapeFactory`
         - `I` is distraction at best and too much information at worst
-- Avoid mental mapping
+1. Avoid mental mapping
     - readers shouldn't have to mentally translate names into other names they already know
     - `i` or `j` or `k` (though never `l`) for loop counters are traditional (fine)
-- Class names
+1. Class names
     - should have noun or noun phrases
-- Method names
+1. Method names
     - should have verb or verb phrases
     - accessors, mutators and predicates should be named for their value and prefixed with `get`, `set` and `is` (javabean standard)
-- Don't be cute
-- Pick one word per concept
+1. Don't be cute
+1. Pick one word per concept
     - confusing to have `fetch`, `retrieve` and `get`
     - `controller`, `manager` and `driver`
-- Don't pun
+1. Don't pun
     - avoid using the same word for two purposes
-- Use solution domain names
+1. Use solution domain names
     - readers are programmers
     - use CS terms, algorithms names, pattern names, math terms and so forth
-- Use problem domain names
-- Add meaningful context
+1. Use problem domain names
+1. Add meaningful context
     - class named `Address` > prefixes: `addrFirstName`, `addrLastName`, `addrState`, ... > `firstName`, `lastName`, `street`, `houseNumber`, `city`, `state` and `zipcode`
-- Don't add gratuitous context
+1. Don't add gratuitous context
     - shorter names are generally better than longer ones
     - add no more context to name than is necessary
 

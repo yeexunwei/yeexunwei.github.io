@@ -9,9 +9,8 @@ tags:
 
 # Clean code : a handbook of agile software craftsmanship / Robert C. Martin
 
-## 2 Meaningful Names
-
-- Use intention-revealing names
+## Chapter 2 Meaningful Names
+1. Use intention-revealing names
     - ```
         int d; elapsed time in days
         ```
@@ -55,4 +54,10 @@ tags:
     - use CS terms, algorithms names, pattern names, math terms and so forth
 - Use problem domain names
 - Add meaningful context
+    - class named `Address` > prefixes: `addrFirstName`, `addrLastName`, `addrState`, ... > `firstName`, `lastName`, `street`, `houseNumber`, `city`, `state` and `zipcode`
+- Don't add gratuitous context
+    - shorter names are generally better than longer ones
+    - add no more context to name than is necessary
+
+## Chapter 3 Functions
 

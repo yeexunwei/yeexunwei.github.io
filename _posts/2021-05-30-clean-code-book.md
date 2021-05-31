@@ -1,7 +1,7 @@
 ---
 layout: splash
 classes: wide
-title: 'Clean Code book notes'
+title: 'Book Notes: Clean Code'
 excerpt: 'Book notes &mdash; Clean code : a handbook of agile software craftsmanship / Robert C. Martin'
 date: 2021-05-30
 permalink: /posts/2021/05/clean-code/

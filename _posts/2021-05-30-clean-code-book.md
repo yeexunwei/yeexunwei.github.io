@@ -2,6 +2,7 @@
 layout: splash
 classes: wide
 title: 'Clean Code book notes'
+excerpt: 'Book notes &mdash; Clean code : a handbook of agile software craftsmanship / Robert C. Martin'
 date: 2021-05-30
 permalink: /posts/2021/05/clean-code/
 tags:
@@ -108,7 +109,7 @@ tags:
     - Mandated comments
     - Journal comments
     - Noise comments &mdash; restate the obvious and provide no new information
-    - Scary noise &mdash; error in comments (pasted)
+    - Scary noise &mdash; error in comments (copied and pasted)
     - Don't use a comment when you can use a function or a variable
     - Position markers
     - Closing brace comments
@@ -120,3 +121,5 @@ tags:
     - Inobvious connection
     - Function headers
 
+## Chapter 5 Formatting
+1. Vertical formatting

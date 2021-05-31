@@ -1,7 +1,8 @@
 ---
-title: Internship at the CADS
+title: 'Internship at the CADS'
 excerpt: Wrap up of my very first internship. Lessons learnt and future thoughts.
 date: 2019-02-01
+permalink: /posts/2019/02/internship-cads/
 tags: 
   - intern
 ---

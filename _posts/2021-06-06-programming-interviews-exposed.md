@@ -44,7 +44,7 @@ CompareToAll(array, n) {
 
 Worst | Average | Best
 ----- | ------- | ----
-max value at end of array | max value in the middle, check only half *n* times | max value at the beginning of array
+max value at end of array | max value in middle, check only half *n* times | max value at beginning of array
 O(*n<sup>2</sup>*) | *n*(*n*/2) = *n<sup>2</sup>*/2 times, O(*n<sup>2</sup>*/2)<br/>actual time dependent on machine, 1/2 doesn't mean much, so stil(*n<sup>2</sup>*) | O(*n*)
 
 ### How to Do Big-*O* Analysia

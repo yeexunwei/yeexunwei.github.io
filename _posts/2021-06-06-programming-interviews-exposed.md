@@ -39,15 +39,15 @@ CompareToAll(array, n) {
 - the difference between *n<sup>2</sup>* and *n* + *n<sup>2</sup>* is negligible for a very large *n*
 - **eliminate all but the highest-order term**
 
-### Best, Average and Worst cases
-CompareToAll
+### Best, Average and Worst Cases
+`CompareToAll`
 
 Worst | Average | Best
 ----- | ------- | ----
 max value at end of array | max value in the middle, check only half *n* times | max value at the beginning of array
 O(*n<sup>2</sup>*) | *n*(*n*/2) = *n<sup>2</sup>*/2 times, O(*n<sup>2</sup>*/2)<br/>actual time dependent on machine, 1/2 doesn't mean much, so stil(*n<sup>2</sup>*) | O(*n*)
 
-### How to DO Big-*O* Analysia
+### How to Do Big-*O* Analysia
 1. Figure out what the input is and what *n* represents.
 1. Express the number of operations the algorithm performs in terms of *n*.
 1. Eliminate all but the highest-order terms.
@@ -56,7 +56,7 @@ O(*n<sup>2</sup>*) | *n*(*n*/2) = *n<sup>2</sup>*/2 times, O(*n<sup>2</sup>*/2)<
 ### Which Algorithm is Better?
 O(1) &mdash; fastest-possible running time, *constant running time*, ideal but rarely achievable
 
-| | *n* = 10 | double *n* = 20
+| | | *n* = 10 | double *n* = 20
 ---|---|---|---
 *logarithmic* &mdash; increases logarihtmically to input size | O(log *n*) | log 10 = 1 | log 20 = 1.30
 *linear algorithm* &mdash; direct propostion to input size | O(*n*) | 10 = 10 | 20 = 20

@@ -4,6 +4,7 @@ classes: wide
 title: 'Book Notes: Programming Interviews Exposed'
 excerpt: 'Book notes &mdash; Programming interviews exposed : secrets to landing your next job / John Mongan, Eric Giguère, Noah Kindler.'
 date: 2021-06-06
+published: false
 permalink: /posts/2021/05/programming-interview-exposed/
 tags:
   - interview

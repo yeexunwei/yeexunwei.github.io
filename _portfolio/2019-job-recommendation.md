@@ -6,5 +6,5 @@ excerpt: "A  Job Recommendation Engine with Implicit Feedback. Two models are de
 date: 2019-03-02
 collection: portfolio
 redirect_to:
-  - https://yeexunwei.github.io/job-recommender/
+  - /job-recommender/
 ---

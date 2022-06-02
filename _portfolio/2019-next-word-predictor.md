@@ -6,5 +6,5 @@ excerpt: "Predicting what word comes next with Tensorflow. Implement RNN and LST
 date: 2019-05-24
 collection: portfolio
 redirect_to:
-  - https://yeexunwei.github.io/next-word-predictor/
+  - /next-word-predictor/
 ---

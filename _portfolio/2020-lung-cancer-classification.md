@@ -6,5 +6,5 @@ excerpt: "Lung cancer image classification in Python using LIDC dataset. Images 
 date: 2019-12-10
 collection: portfolio
 redirect_to: 
-  - {{ site.url }}/lung-cancer-image-classification/
+  - "{{ site.url }}/lung-cancer-image-classification/"
 ---

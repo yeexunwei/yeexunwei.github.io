@@ -6,5 +6,5 @@ excerpt: "Develop a search engine with Lucene model. Results returned are ranked
 date: 2019-05-17
 collection: portfolio
 redirect_to:
-  - https://xunweiyee.github.io/search-engine-security-breach/
+  - https://yeexunwei.github.io/search-engine-security-breach/
 ---

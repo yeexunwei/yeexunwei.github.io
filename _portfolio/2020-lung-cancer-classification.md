@@ -6,5 +6,5 @@ excerpt: "Lung cancer image classification in Python using LIDC dataset. Images 
 date: 2019-12-10
 collection: portfolio
 redirect_to: 
-  - https://xunweiyee.github.io/lung-cancer-image-classification/
+  - https://yeexunwei.github.io/lung-cancer-image-classification/
 ---

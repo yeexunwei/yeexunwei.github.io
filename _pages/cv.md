@@ -13,15 +13,15 @@ redirect_from:
 Xun Wei Yee
 ======
 
-> [xunweiyee.github.io](https://xunweiyee.github.io) | [linkedin.com/in/xunweiyee](https://www.linkedin.com/in/xunweiyee/) | [yeexunwei@gmail.com](mailto:yeexunwei@gmail.com)
+> [yeexunwei.github.io](https://yeexunwei.github.io) | [linkedin.com/in/yeexunwei](https://www.linkedin.com/in/yeexunwei/) | [yeexunwei@gmail.com](mailto:yeexunwei@gmail.com)
 
 ### Data enthusiast with a strong background in programming. 
 
-> [xunweiyee.github.io](https://xunweiyee.github.io) . [linkedin.com/in/xunweiyee](https://www.linkedin.com/in/xunweiyee/) . yeexunwei@gmail.com
+> [yeexunwei.github.io](https://yeexunwei.github.io) . [linkedin.com/in/yeexunwei](https://www.linkedin.com/in/yeexunwei/) . yeexunwei@gmail.com
 
-### [xunweiyee.github.io](https://xunweiyee.github.io) | [linkedin.com/in/xunweiyee](https://www.linkedin.com/in/xunweiyee/) | [yeexunwei@gmail.com](mailto:yeexunwei@gmail.com)
+### [yeexunwei.github.io](https://yeexunwei.github.io) | [linkedin.com/in/yeexunwei](https://www.linkedin.com/in/yeexunwei/) | [yeexunwei@gmail.com](mailto:yeexunwei@gmail.com)
 
-### [ [xunweiyee.github.io](https://xunweiyee.github.io) ] . [ [linkedin.com/in/xunweiyee](https://www.linkedin.com/in/xunweiyee/) ] . [ yeexunwei@gmail.com ]
+### [ [yeexunwei.github.io](https://yeexunwei.github.io) ] . [ [linkedin.com/in/yeexunwei](https://www.linkedin.com/in/yeexunwei/) ] . [ yeexunwei@gmail.com ]
 -->
 
 Education

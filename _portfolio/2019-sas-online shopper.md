@@ -6,5 +6,5 @@ excerpt: "Using SAS Enterprise Miner to classify site visitors to be positive or
 date: 2019-12-04
 collection: portfolio
 redirect_to:
-  - https://xunweiyee.github.io/online-shoppers-intention-sas/
+  - https://yeexunwei.github.io/online-shoppers-intention-sas/
 ---

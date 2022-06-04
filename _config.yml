@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xun Wei Yee"
+title                    : "Yee Xun Wei"
 title_separator          : "-"
-name                     : &name "Xun Wei Yee"
-description              : &description "personal description"
+name                     : &name "Yee Xun Wei"
+description              : &description "Xun Wei's personal site."
 url                      : https://yeexunwei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yeexunwei/yeexunwei.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xun Wei Yee"
+  name             : "YEE Xun Wei"
   avatar           : "profile.jpg"
-  bio              : "Currently pursuing Master of Computing at National University of Singapore. Graduated from University of Malaya."
+  bio              : "Master of Computing at National University of Singapore"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "yeexunwei@gmail.com"
+  email            : "yeexunwei@u.nus.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -1,7 +1,7 @@
 ---
 title: "Lung Cancer Image Classification"
 excerpt: "Comparative study of image feature extraction methods on lung cancer image classification.<br>
-- feature extraction (feature descriptors) and image transformation of lungs CT image<br>
+- image feature extraction (feature descriptors) and image transformation of lungs CT image<br>
 - clustering of image descriptors<br>
 - train classifiers and evaluate<br>
 <br>

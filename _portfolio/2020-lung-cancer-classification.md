@@ -5,7 +5,7 @@ excerpt: "Comparative study of image feature extraction methods on lung cancer i
 - clustering of image descriptors<br>
 - train classifiers and evaluate<br>
 <br>
-<img src='/images/2019-lung-cancer-classification.png' alt='' width='500'/>"
+<img src='/assets/images/2019-lung-cancer-classification.png' alt='' width='500'/>"
 date: 2019-12-10
 collection: portfolio
 redirect_to: 

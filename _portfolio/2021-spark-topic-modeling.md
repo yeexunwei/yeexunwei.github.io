@@ -5,7 +5,7 @@ excerpt: "LDA topic modeling of movie reviews with Spark.<br>
 - LDA modeling<br>
 - LDA visualizations<br>
 <br>
-<img src='/images/2021-topic-modeling.png' alt='' width='500'/>"
+<img src='/assets/images/2021-topic-modeling.png' alt='' width='500'/>"
 date: 2021-11-11
 collection: portfolio
 redirect_to: 

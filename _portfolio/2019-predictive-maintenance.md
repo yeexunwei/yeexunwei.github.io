@@ -6,5 +6,5 @@ excerpt: "A combination of LSTM and EDM models to address the issue of anomaly c
 date: 2018-09-29
 collection: portfolio
 redirect_to:
-  - https://www.datasciencesociety.net/similar-but-not-the-same-an-autoregressive-recurrent-neural-network-with-long-short-term-memory-units-for-forecasting-similar-time-series/
+  - /predictive-maintenance/article
 ---

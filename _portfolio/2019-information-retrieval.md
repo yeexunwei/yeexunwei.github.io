@@ -1,7 +1,7 @@
 ---
 title: "Search Engine of Cyber-Security Data"
 excerpt: "Search engine with Lucene model.<br>
-- ranked search result using tf-idf score<br>
+- rank search result using tf-idf score<br>
 - users provide relevance feedback to improve the effectiveness<br>
 <br>
 <img src='/images/2019-information-retrieval.png' alt='' width='500'/>"

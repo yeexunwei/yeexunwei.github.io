@@ -7,11 +7,11 @@ date: 2018-09-29
 collection: portfolio
 ---
 
-[View the Project on GitHub](https://github.com/yeexunwei/predictive-maintenance)
+[View the Project on GitHub](https://github.com/yeexunwei/forklifts-predictive-maintenance)
 
 # Kaufland Solution – LSTM and EDM Models for Predictive Maintenance
 
-Posted [29.09.2018](https://www.datasciencesociety.net/similar-but-not-the-same-an-autoregressive-recurrent-neural-network-with-long-short-term-memory-units-for-forecasting-similar-time-series/) | [william ardianto](https://github.com/williamardianto), [teoh kenghooi](https://github.com/kenghooi-teoh), [narjes khatoon naseri](),[yee xunwei](https://github.com/yeexunwei), [philip khor](https://github.com/philip-khor)
+Posted [29.09.2018](https://www.datasciencesociety.net/similar-but-not-the-same-an-autoregressive-recurrent-neural-network-with-long-short-term-memory-units-for-forecasting-similar-time-series/) | [william ardianto](https://github.com/williamardianto), [teoh kenghooi](https://github.com/kenghooi-teoh), [narjes khatoon](),[yee xunwei](https://github.com/yeexunwei), [philip khor](https://github.com/philip-khor)
 
 In this paper we propose the use of a combination of LSTM and EDM models to address the issue of anomaly classification and prediction in time series data. Working with sensor data for automated storage and retrieval systems for a German hypermarket chain, we show that predictors based on variance and median methods show sufficient promise in the handling of anomalies.
 

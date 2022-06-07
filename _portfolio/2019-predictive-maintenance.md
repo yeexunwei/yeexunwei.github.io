@@ -32,7 +32,7 @@ The predictive system will be a success if it detects anomalies accurately.
 
 Our project plan is summarised in Figure 1. The first step consists of exploratory data analysis and data preparation. Based on the first step, we decide on our modelling approach and then construct a strategy for deployment.
 
-![](images/2019-predictive-maintenance/business-understanding.png)
+![](/images/2019-predictive-maintenance/business-understanding.png)
 
 *Figure 1: Project plan*
 
@@ -53,7 +53,7 @@ The data is loaded in R and Python. The data we use is provided by Kaufland, a l
 
 RBG 1 and 7 are the pilot study to test the efficiency of the sensors, this explains why they have long range of data. Sensors are embedded to the other machines after the sensors are proved to be working.
 
-![](images/2019-predictive-maintenance/machine.jpg)
+![](/images/2019-predictive-maintenance/machine.jpg)
 
 *Figure 2: Sensors on machine. Image from Data Science Society.*
 
@@ -93,35 +93,35 @@ Data exploration is performed with purpose of finding relationships among factor
 
 The values of vibrations of sensors for each sensor is plotted using scatter plot (Figure 4 and 5). The values of six sensors are included. Null values are not shown in the figures.
 
-![](images/2019-predictive-maintenance/RBG1_Vibration_Hourly_Points.png)
+![](/images/2019-predictive-maintenance/RBG1_Vibration_Hourly_Points.png)
 
 *Figure 4: Values of sensors for Machine 1 (RBG1). This machine shows a significant decrease in mean vibration read after a documented maintenance event on 8 Feb 2018.*
 
-![](images/2019-predictive-maintenance/RGB7.png)
+![](/images/2019-predictive-maintenance/RGB7.png)
 
 *Figure 5: Values of sensors for Machine 7 (RBG7)*
 
 Correlation matrix is plotted in Figure 6. Matrix is plotted against each sensor. The sensors are grouped together based on location of the sensors. Group 1 consists of sensor 1 and 2; group 2 sensor 3, 4 and 5; group 3 sensor 6. Sensors are highly correlated within groups.
 
-![](images/2019-predictive-maintenance/correl.png)
+![](/images/2019-predictive-maintenance/correl.png)
 
 *Figure 6: Correlation matrix of sensors  from Machine 1. Grey to black indicates high correlation score.*
 
 The time series is plotted for each sensors of each machine. No seasonality/repeating patterns/cycles is found. Spectral analysis on Figure 7 confirms the absence of periodicity within the data. This provides a strong case to abandon ARIMA method. At this stage, we consider not using classical time series approaches in favour of Long-Short-Term Memory (LSTM) unit for recurrent neural networks (RNN).
 
-![](images/2019-predictive-maintenance/spectral.png)
+![](/images/2019-predictive-maintenance/spectral.png)
 
 *Figure 7: Spectral analysis of Sensor 1 from Machine 1.*
 
 Figure 8 shows the plot according to sensor for 7 machines.  The patterns in the series suggests that spread may be an indication of the health of the machine. This forms the basis of our study.
 
-![](images/2019-predictive-maintenance/Screen-Shot-2018-09-30-at-4.13.16-PM.png)
+![](/images/2019-predictive-maintenance/Screen-Shot-2018-09-30-at-4.13.16-PM.png)
 
 *Figure 8: Values of Driver Gear Sensor from 7 machines are plotted at the same axis.*
 
 Extreme values in the data are filtered using Tukey's method. Figure 9 illustrates the occurrence rate of outliers that are present in the sensor data aggregated by machine and sensor type. Visual inspection indicates that Machine 7 shows a significantly higher occurrence of outliers, followed closely by Machines 2 and 3. Interpreting the occurrence of outliers as an indicator of machine reliability, we hypothesize that machine health for Machines 1, 4, 5, and 6 were superior to that of the remaining machines during the period of data recorded. We thus propose that a controlled experiment be designed to test said hypothesis and identify supplementary factors that may contribute towards overall machine health.
 
-![](images/2019-predictive-maintenance/Rplot01.jpeg)
+![](/images/2019-predictive-maintenance/Rplot01.jpeg)
 
 *Figure 9: Distribution of outliers*
 
@@ -163,9 +163,9 @@ We consider the use of neural network models for sequence data, particularly rec
 
 As each of these series have different centers and spread, we assume that the number of standard deviations away from the mean is similarly distributed and can be 'learned' in the same way (Figure 11).
 
-![](images/2019-predictive-maintenance/Screen-Shot-2018-09-30-at-1.13.02-AM.png)
+![](/images/2019-predictive-maintenance/Screen-Shot-2018-09-30-at-1.13.02-AM.png)
 
-![](images/2019-predictive-maintenance/Screen-Shot-2018-09-30-at-1.12.22-AM.png)
+![](/images/2019-predictive-maintenance/Screen-Shot-2018-09-30-at-1.12.22-AM.png)
 
 *Figure 11: Distribution of Idle Wheel velocity (standardised) across all machines and Time series of each of the machines' Idle Wheel velocity (standardised)*
 
@@ -175,7 +175,7 @@ As each of these series have different centers and spread, we assume that the nu
 
 The AR-LSTM model provides forecasts that correspond to the level and spread of data. The spread of the AR-LSTM forecasts (Figure 12) are rather conservative, and the AR-LSTM model performs similarly well out-of-sample.
 
-![](images/2019-predictive-maintenance/Screen-Shot-2018-09-30-at-1.12.41-AM.png)
+![](/images/2019-predictive-maintenance/Screen-Shot-2018-09-30-at-1.12.41-AM.png)
 
 *Figure* *12:* *In-sample performance*
 
@@ -183,7 +183,7 @@ The AR-LSTM model provides forecasts that correspond to the level and spread of 
 
 Figure 13 plots the AR-LSTM forecast errors. We set 3 standard deviations above and below the mean as the threshold for anomalous behaviour.  This standard is convenient to interpret as our data is already scaled. This corresponds to approximately 95% of the data, assuming the data is normally distributed. This cut-off rule has a relatively low false positive rate of roughly 18/7000 (0.2%).
 
-![](images/2019-predictive-maintenance/Screen-Shot-2018-09-30-at-1.49.07-AM.png)
+![](/images/2019-predictive-maintenance/Screen-Shot-2018-09-30-at-1.49.07-AM.png)
 
 *Figure 13: Absolute value of forecast error (standard deviations)*
 
@@ -206,11 +206,11 @@ At a high level, the differences between these two approaches are as follows:
 
 Our use of the spread as a measure of machine health is justified as follows. Figure 16 and 17 show the time series of idle wheel velocity and the moving average respectively, pooled across all machines. It suggests that there are distinct intervals in the data with different spread and centers. This implies that spread may be a good way to indicate machine health.
 
-![](images/2019-predictive-maintenance/Screen-Shot-2018-09-30-at-4.13.25-PM.png)
+![](/images/2019-predictive-maintenance/Screen-Shot-2018-09-30-at-4.13.25-PM.png)
 
 *Figure 16: Minute-aggregated time series of idle wheel velocity (machine 1)*
 
-![](images/2019-predictive-maintenance/Screen-Shot-2018-09-30-at-4.13.29-PM.png)
+![](/images/2019-predictive-maintenance/Screen-Shot-2018-09-30-at-4.13.29-PM.png)
 
 *Figure 17: Moving Variance of Idle Wheel velocity (machine 1)*
 
@@ -240,7 +240,7 @@ We fit two LSTM models for this purpose, with different train/test set pairs (Fi
 
 *Figure 18: Train and test set for Models 1 and 2*
 
-![](images/2019-predictive-maintenance/Capture-7.png)
+![](/images/2019-predictive-maintenance/Capture-7.png)
 
 *Figure 19: Model summary*
 
@@ -250,7 +250,7 @@ We fit two LSTM models for this purpose, with different train/test set pairs (Fi
 
 By visually inspecting Figure 20, observations 300-1300 should be classified as anomalies because the spread of the series is abnormally high. Figure x shows the anomaly flag for Machine 1's velocity on the idle wheel sensor as classified by Tukey's method. The anomaly flag correctly highlights these observations as anomalous. The drop-off point at approximately observation 1700 is likely due to a maintenance event. This event is also flagged as anomalous according to Tukey's Method. Model 1's predictions also closely follow the anomaly labels.
 
-![](images/2019-predictive-maintenance/Capture-5.png)
+![](/images/2019-predictive-maintenance/Capture-5.png)
 
 *Figure 20: Velocity series of idle wheel for machine 1*
 
@@ -258,7 +258,7 @@ By visually inspecting Figure 20, observations 300-1300 should be classified as 
 
 It is reasonable to assume that the distribution of the normal condition of the sensors is similar across sensors as well as machines. To provide some evidence for our hypothesis, a LSTM model is fitted on the idle wheel data across all machines and tested against lifting motor and drive wheel data across all machines. The results of the predictions on the drive wheel sensors are illustrated in Figure 21.
 
-![](images/2019-predictive-maintenance/download-3.png)
+![](/images/2019-predictive-maintenance/download-3.png)
 
 *Figure 21: Drive wheel velocity measure for machines 1-7*
 
@@ -266,7 +266,7 @@ Again, the predicted data closely trails the actual labels in all drive wheel se
 
 As for the lifting motor (Figure 22), the model detects anomalies in Machine 1, 2, 6 and 7. Both the anomaly labels and LSTM predictions detect anomalies similarly. The abnormalities in Machine 1's idle wheel are reflected in the predictions and anomaly labels for the drive wheel and lifting motor. This suggests that this modelling approach may find it hard to distinguish between different sections of the machine when predicting faults.
 
-![](images/2019-predictive-maintenance/download-4.png)
+![](/images/2019-predictive-maintenance/download-4.png)
 
 *Figure 22: Velocity measures for lifting motor for machines 1-7*
 
@@ -276,7 +276,7 @@ Assuming the anomaly labels to be the 'ground truth', we can calculate false pos
 
 E-Divisive with Medians (EDM) is a model for breakpoint (changepoint) detection. Breakpoint detection describes the process of detecting change points in time series. We decided to analyse the breakpoints with an unsupervised approach as we noticed that there are visually obvious changes of distribution resulting in distinct segments in the sensor's time series data, due to different possible reasons (could be anomalies, repairs or maintenances, in some cases it's missing data). The EDM algorithm (James et al. 2014) is reported to have several advantages over traditional breakout detection techniques. They include (1) robustness against anomalies, (2) able to detect divergence and change in distributions, and (3) faster computation process. In Figure 23, we segment out series into 3 sections by visually examining the data. We expect the EDM algorithm to automate this process.
 
-![](images/2019-predictive-maintenance/Screen_Shot_2018-09-30_at_6.03.37_PM1.png)
+![](/images/2019-predictive-maintenance/Screen_Shot_2018-09-30_at_6.03.37_PM1.png)
 
 *Figure 23: Visual inspection of series*
 
@@ -284,15 +284,15 @@ E-Divisive with Medians (EDM) is a model for breakpoint (changepoint) detection.
 
 We tried to detect the breakouts using different metrics, namely mean (Figure 24), distributions (Figure 25), and median (Figure 26). With no labeled data available, we visually evaluated the graphs and observed that median-based method draws a cleaner boundary between different segments in the time series. We concluded that median is the best option to detect breakouts in our case as it is robust against outliers. One downside of this approach is that computing the median is computationally expensive, with a computational cost of **</b>O(n!)</b>O(n!)</b>O(n!).
 
-![](images/2019-predictive-maintenance/Screen_Shot_2018-09-30_at_5.55.28_PM1-1.png)
+![](/images/2019-predictive-maintenance/Screen_Shot_2018-09-30_at_5.55.28_PM1-1.png)
 
 *Figure 24: Mean-based EDM*
 
-![](images/2019-predictive-maintenance/Screen_Shot_2018-09-30_at_5.53.50_PM1-1.png)
+![](/images/2019-predictive-maintenance/Screen_Shot_2018-09-30_at_5.53.50_PM1-1.png)
 
 *Figure 25: Distribution-based method*
 
-![](images/2019-predictive-maintenance/Screen_Shot_2018-09-30_at_6.13.17_PM1.png)
+![](/images/2019-predictive-maintenance/Screen_Shot_2018-09-30_at_6.13.17_PM1.png)
 
 *Figure 26: Median-based EDM*
 
@@ -308,7 +308,7 @@ Figure 27 shows the deployment of the AR-LSTM model. Firstly, 11 minutes of data
 
 The difference between the prediction and the real data is calculated. If the difference is greater than the threshold, anomaly is detected since the data deviates from the predicted 'normal' value. Otherwise it means there is no anomaly, the machine is operating as normal. The loop continues.
 
-![](images/2019-predictive-maintenance/deploy-1.png)
+![](/images/2019-predictive-maintenance/deploy-1.png)
 
 *Figure 27: AR-LSTM deployment plan*
 
@@ -316,7 +316,7 @@ The difference between the prediction and the real data is calculated. If the di
 
 Figure 28 shows the deployment of the moving variance model. Data is collected for 70 minutes. Data is transformed by computing moving variances for 60 minute windows. Then, predictions are made based on the LSTM model. Based on the prediction, the model suggests whether preventive maintenance is required.
 
-![](images/2019-predictive-maintenance/Capture-6.png)
+![](/images/2019-predictive-maintenance/Capture-6.png)
 
 *Figure 28: Moving variances-LSTM deployment plan*
 

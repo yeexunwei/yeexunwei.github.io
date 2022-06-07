@@ -7,7 +7,7 @@ excerpt: "Write up of interpretable machine learning. Explains inherently interp
 - inherently interpretable models (linear regression, decision tree)<br>
 - Local Interpretable Model-Agnostic Explanations (LIME) algorithm<br>
 <br>
-<img src='/assets/images/2021-interpretable-ml.png' alt='' width='500'/>"
+<img src='/images/2021-interpretable-ml.png' alt='' width='500'/>"
 date: 2021-04-07
 paperurl: '/files/interpretable-ml.pdf'
 ---

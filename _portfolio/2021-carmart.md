@@ -5,7 +5,7 @@ excerpt: "Data analysis on used cars market. Huge amount of code on data cleanin
 - predict car sales price<br>
 - identify significant car features to increase sales<br>
 <br>
-<img src='/assets/images/2021-carmart.png' alt='' width='500'/>"
+<img src='/images/2021-carmart.png' alt='' width='500'/>"
 date: 2021-11-14
 collection: portfolio
 redirect_to: 

@@ -7,6 +7,7 @@ excerpt: "A combination of LSTM and EDM models to address the issue of anomaly c
 <img src='/images/2019-predictive-maintenance.png' alt='' width='500'/>"
 date: 2018-09-29
 collection: portfolio
+author_profile: false
 ---
 
 [View the Project on GitHub](https://github.com/yeexunwei/forklifts-predictive-maintenance)

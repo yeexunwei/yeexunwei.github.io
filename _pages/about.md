@@ -29,11 +29,11 @@ Courses attended in University of Malaya:
 - Information Retrieval
 
 ## My Skills
-Data Cleaning | pandas, numpy  
-Data Preprocessing | data encoding, scaling, dimensionality reduction, feature engineering
-Data Visualisation | matplotlib, tableau  
-Machine Learning | pipeline, train-test-split, scikit-learn, pytorch  
-Database | sql
+Data Cleaning &mdash; pandas, numpy  
+Data Preprocessing &mdash; data encoding, scaling, dimensionality reduction, feature engineering
+Data Visualisation &mdash; matplotlib, tableau  
+Machine Learning &mdash; pipeline, train-test-split, scikit-learn, pytorch  
+Database &mdash; sql
 
 ## Hobbies
 I read, listen to music, paint and enjoy activities such as camping, squash and trekking.

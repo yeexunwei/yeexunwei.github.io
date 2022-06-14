@@ -32,7 +32,7 @@ Education
 
 **Bachelor of Computer Science (Information Systems), University of Malaya**\
 *2016 – 2020*\
-Pass with Honours (with Distinction) — 3.87/4.0 GPA
+First-Class Honours (with Distinction) — 3.87/4.0 GPA
 
 
 

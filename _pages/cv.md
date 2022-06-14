@@ -31,8 +31,10 @@ Education
 *2021 – Expected Jun 2023*
 
 **Bachelor of Computer Science (Information Systems), University of Malaya**\
-*2016 – 2020*
-  - *Pass with Honours (with Distinction)* — 3.87/4.0 GPA
+*2016 – 2020*\
+Pass with Honours (with Distinction) — 3.87/4.0 GPA
+
+
 
 Experience
 ======
@@ -40,21 +42,25 @@ Experience
 *Aug 2018 – Mar 2019*
 
 **Teaching Assistant, Data Structure Lab**, University of Malaya KL\
-*Feb 2018 – Jun 2018*, *Feb 2019 – Jun 2019*
+*Feb 2018 – Jun 2018, Feb 2019 – Jun 2019*
+
+
 
 Skills
 ======
-- **Programming** | Python, Java
-- **Machine learning** | Scikit-learn, PyTorch, NumPy
-- **Data processing** | Spark
-- **Database** | SQL
-- **Web development** | Flask, PHP, Ruby on Rails
-- **Visualisation** | Tableau, Power BI
-- **Version control** | Git
-- **Cloud platform** | AWS, Digital Ocean
-- **Unix scripting** | Bash
-- **Statistical analysis** | SPSS, SAS Enterprise Miner
-- **Other** | Data Engineering, Hyperparameter Optimization, Model Validation
+- **Programming** — Python, Java
+- **Machine learning** — Scikit-learn, PyTorch, NumPy
+- **Data processing** — Spark
+- **Database** — SQL
+- **Web development** — Flask, PHP, Ruby on Rails
+- **Visualisation** — Tableau, Power BI
+- **Version control** — Git
+- **Cloud platform** — AWS, Digital Ocean
+- **Unix scripting** — Bash
+- **Statistical analysis** — SPSS, SAS Enterprise Miner
+- **Other** — Data Engineering, Hyperparameter Optimization, Model Validation
+
+
 
 Awards
 ======
@@ -68,6 +74,8 @@ Awards
 - **Academia Datathon *First Prize***, International University Data Science Challenge — 2018
   - Collaborated with five senior faculty members to build forecasting model to predict price of 20 cryptocurrencies from historical data.
 
+
+
 Trainings & Certifications
 ======
 - **SAS Undergraduate Joint Certificate Program Curriculum in Data Science** — *Mar 2020*
@@ -79,6 +87,16 @@ Trainings & Certifications
 ### MOOCs
 - [Machine Learning (Stanford, Andrew Ng)](https://www.coursera.org/account/accomplishments/certificate/DYTBU6PWHCFU)
 <!-- - Machine Learning (Stanford, Andrew Ng) — *ongoing* -->
+
+### Courses
+- *CS5446* AI Planning and Decision Making
+- *CS5344* Big-Data Analytics Technology
+- *CS5228* Knowledge Discovery and Data Mining
+- *CS5242* Neural Networks and Deep Learning
+- *CS5339* Theory and Algorithms for Machine Learning
+- *CS5340* Uncertainty Modelling in AI
+
+
 
 Projects
 ======

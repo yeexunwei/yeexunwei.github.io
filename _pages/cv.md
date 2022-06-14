@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /resume/
 ---
 
 {% include base_path %}
@@ -25,68 +26,62 @@ Xun Wei Yee
 -->
 
 Education
----------
+======
 **Master of Computing, National University of Singapore**\
-*2021 &ndash; 2022*
+*2021 – Expected Jun 2023*
 
 **Bachelor of Computer Science (Information Systems), University of Malaya**\
-*2016 &ndash; 2020*
-- *Pass with Honours (with Distinction)* &ndash; 3.87/4.0 GPA
-- Awarded the University Book Prize in recognition of high academic achievement
-- Undertook final year project on Lung Cancer Image Classification System (use of signal processing methods to transform images for lung nodules classification)
+*2016 – 2020*
+  - *Pass with Honours (with Distinction)* — 3.87/4.0 GPA
 
 Experience
----------
+======
 **Data Science Intern, The Center of Applied Data Science**, Bangsar South KL\
-*August 2018 &ndash; March 2019*
-- Developed Job Recommender System using implicit feedback and cosine similarity
-- Scraped data from Twitter and LinkedIn for sentiment analysis
-- Designed and implemented a database to automate company business operations
+*Aug 2018 – Mar 2019*
 
 **Teaching Assistant, Data Structure Lab**, University of Malaya KL\
-*2018, 2019*
-- Provided tutoring and demonstration in Java to large group of undergraduates
-- Set final assignment topic and assessed students' peformance in class
-
+*Feb 2018 – Jun 2018*, *Feb 2019 – Jun 2019*
 
 Skills
-------
-- **Programming** &mdash; Python, Java
-- **Unix Scripting** &mdash; Bash
-- **Web Development** &mdash; PHP, Ruby on Rails, Flask, HTML, CSS
-- **Database** &mdash; MySQL, Oracle, Postgres
-- **Statistical Analysis Tool** &mdash; SPSS, SAS Enterprise Miner
-- **Machine Learning** &mdash; scikit-learn
-- **Data Visualisation** &mdash; Tableau, Power BI
-- **Version Control** &mdash; Git
-- **Cloud Services** &mdash; AWS, Digital Ocean
-- **Image Processing**
-- **Information Retrieval**
+======
+- **Programming** | Python, Java
+- **Machine learning** | Scikit-learn, PyTorch, NumPy
+- **Data processing** | Spark
+- **Database** | SQL
+- **Web development** | Flask, PHP, Ruby on Rails
+- **Visualisation** | Tableau, Power BI
+- **Version control** | Git
+- **Cloud platform** | AWS, Digital Ocean
+- **Unix scripting** | Bash
+- **Statistical analysis** | SPSS, SAS Enterprise Miner
+- **Other** | Data Engineering, Hyperparameter Optimization, Model Validation
 
 Awards
-------
-- **University Book Prize**, University of Malaya &mdash; 2020\
-Awarded in recognition of high academic performance.
-- **Global Datathon *First Prize***, International Data Science Hackathon &mdash; 2018\
-Developed predictive maintenance model to detect abnormal behaviours of forklifts sensor data.
-- **Academia Datathon *First Prize***, International University Data Science Challenge &mdash; 2018\
-Developed forecasting model to predict price of twenty cryptocurrencies using historical data.
-- **King Scout** &mdash; 2014
+======
+- **University Book Prize**, University of Malaya — 2020
+  - Awarded in recognition of high academic performance.
+
+- **Global Datathon *First Prize***, International Data Science Hackathon — 2018
+  - Participated in team of six to build predictive maintenance model detects abnormal behaviours of forklifts sensor data to minimise maintenance costs.
+  - Documented visualisations, pipeline, results and published as online article.
+
+- **Academia Datathon *First Prize***, International University Data Science Challenge — 2018
+  - Collaborated with five senior faculty members to build forecasting model to predict price of 20 cryptocurrencies from historical data.
 
 Trainings & Certifications
---------
-- **SAS Undergraduate Joint Certificate Program Curriculum in Data Science** &mdash; *Mar 2020*
-- **Oracle Database Design and Programming with SQL** &mdash; *Jan 2020*
-- **Google Developer Essentials** &mdash; *Sep 2019*
-- **SAP Analytics Cloud** &mdash; *Apr 2018*
-- **Applied Analytics Using SAS Enterprise Miner** &mdash; *Jan 2018*
+======
+- **SAS Undergraduate Joint Certificate Program Curriculum in Data Science** — *Mar 2020*
+- **Oracle Database Design and Programming with SQL** — *Jan 2020*
+- **Google Developer Essentials** — *Sep 2019*
+- **SAP Analytics Cloud** — *Apr 2018*
+- **Applied Analytics Using SAS Enterprise Miner** — *Jan 2018*
 
-#### MOOCs
+### MOOCs
 - [Machine Learning (Stanford, Andrew Ng)](https://www.coursera.org/account/accomplishments/certificate/DYTBU6PWHCFU)
-<!-- - Machine Learning (Stanford, Andrew Ng) &mdash; *ongoing* -->
+<!-- - Machine Learning (Stanford, Andrew Ng) — *ongoing* -->
 
 Projects
---------
+======
   <ul>{% for post in site.portfolio reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
